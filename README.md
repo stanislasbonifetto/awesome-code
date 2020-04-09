@@ -16,7 +16,7 @@ A list of code references.
 # Languages
 
 ## Haskell
-TBD
+ - [Software design in Haskell](https://github.com/graninas/software-design-in-haskell)
 
 ## Python
 TBD
