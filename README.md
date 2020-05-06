@@ -10,6 +10,10 @@ A list of code references.
     * [Python](#python)
 * [Architecture](#architecture)
     * [Books on Architecture](#Books-on-Architecture)
+* [Apps](#apps)
+    * [Flutter](#flutter)
+        * [Courses](#flutter-courses)
+
 
 --------
 
@@ -20,7 +24,7 @@ A list of code references.
  - [Things software engineers trip up on when learning Haskell](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
  
  ### Haskell libraries
- - [Haskell Works Kafka Ecosystem ](https://github.com/haskell-works/hw-kafka)
+ - [Haskell Works Kafka Ecosystem](https://github.com/haskell-works/hw-kafka)
 
 ## Python
 TBD
@@ -31,3 +35,11 @@ TBD
 ## Books on Architecture
 
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/books/)
+
+# Apps
+
+## Flutter
+
+## Flutter courses
+- [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+
