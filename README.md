@@ -10,6 +10,7 @@ A list of code references.
     * [Python](#python)
 * [Architecture](#architecture)
     * [Books on Architecture](#Books-on-Architecture)
+* [Kafka](#kafka)
 * [Apps](#apps)
     * [Flutter](#flutter)
         * [Courses](#flutter-courses)
@@ -31,10 +32,15 @@ TBD
 
 # Architecture
 
-
 ## Books on Architecture
 
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/books/)
+
+# Kafka
+
+## Kafka stream
+- [Streams and Tables](https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/)
+
 
 # Apps
 
