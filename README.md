@@ -23,6 +23,7 @@ A list of code references.
 ## Haskell
  - [Software design in Haskell](https://github.com/graninas/software-design-in-haskell)
  - [Things software engineers trip up on when learning Haskell](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
+ - [The Monad Challenges](https://mightybyte.github.io/monad-challenges/)
  
  ### Haskell libraries
  - [Haskell Works Kafka Ecosystem](https://github.com/haskell-works/hw-kafka)
