@@ -40,7 +40,10 @@ TBD
 
 ## Hexagonal Architecture
 - [Hexagonal Architecture in Go](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
-- [Hexagonal Architecture in kotlin](https://github.com/dustinsand/hex-arch-kotlin-spring-boot)
+- [Hexagonal Architecture in kotlin and spring](https://github.com/dustinsand/hex-arch-kotlin-spring-boot)
+- [Hexagonal Architecture in java and spring](https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622)
+- [Hexagonal Architecture in java and spring and DDD](https://www.baeldung.com/hexagonal-architecture-ddd-spring)
+- [Hexagonal Architecture at Netflix](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 
 # Kafka
 
