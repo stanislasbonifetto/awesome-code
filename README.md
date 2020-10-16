@@ -10,6 +10,7 @@ A list of code references.
     * [Python](#python)
 * [Architecture](#architecture)
     * [Books on Architecture](#Books-on-Architecture)
+    * [Hexagonal Architecture](#Hexagonal-Architecture)
 * [Kafka](#kafka)
 * [Apps](#apps)
     * [Flutter](#flutter)
@@ -36,6 +37,10 @@ TBD
 ## Books on Architecture
 
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/books/)
+
+## Hexagonal Architecture
+- [Hexagonal Architecture in Go](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
+- [Hexagonal Architecture in kotlin](https://github.com/dustinsand/hex-arch-kotlin-spring-boot)
 
 # Kafka
 
