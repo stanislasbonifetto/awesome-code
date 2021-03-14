@@ -16,7 +16,7 @@ A list of code references.
     * [Flutter](#flutter)
         * [Courses](#flutter-courses)
 * [Business development](#business-development)
-    * [Ispirational books](#ispirational-books)
+    * [Inspirational books](#inspirational-books)
 
 
 --------
@@ -62,5 +62,5 @@ TBD
 
 # Business development
 
-## Ispirational books
+## Inspirational books
 - [Generating product ideas](https://productideasbook.com/)
