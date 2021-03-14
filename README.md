@@ -7,7 +7,6 @@ A list of code references.
 
 * [Languages](#languages)
     * [Haskell](#haskell) 
-    * [Python](#python)
 * [Architecture](#architecture)
     * [Books on Architecture](#Books-on-Architecture)
     * [Hexagonal Architecture](#Hexagonal-Architecture)
@@ -30,9 +29,6 @@ A list of code references.
  
  ### Haskell libraries
  - [Haskell Works Kafka Ecosystem](https://github.com/haskell-works/hw-kafka)
-
-## Python
-TBD
 
 # Architecture
 
