@@ -15,6 +15,8 @@ A list of code references.
 * [Apps](#apps)
     * [Flutter](#flutter)
         * [Courses](#flutter-courses)
+* [Business development](#business-development)
+    * [Ispirational books](#ispirational-books)
 
 
 --------
@@ -58,3 +60,7 @@ TBD
 ## Flutter courses
 - [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
+# Business development
+
+## Ispirational books
+- [Generating product ideas](https://productideasbook.com/)
