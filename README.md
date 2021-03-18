@@ -10,6 +10,7 @@ A list of code references.
 * [Architecture](#architecture)
     * [Books on Architecture](#Books-on-Architecture)
     * [Hexagonal Architecture](#Hexagonal-Architecture)
+* [Event driven](#event-driven)
 * [Kafka](#kafka)
 * [Apps](#apps)
     * [Flutter](#flutter)
@@ -42,6 +43,10 @@ A list of code references.
 - [Hexagonal Architecture in java and spring](https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622)
 - [Hexagonal Architecture in java and spring and DDD](https://www.baeldung.com/hexagonal-architecture-ddd-spring)
 - [Hexagonal Architecture at Netflix](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
+
+# Event driven
+- [What do you mean by “Event-Driven”? - Martin Fowler](https://martinfowler.com/articles/201701-event-driven.html)
+- [Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 # Kafka
 
