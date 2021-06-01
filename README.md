@@ -16,6 +16,7 @@ A list of code references.
 * [Apps](#apps)
     * [Flutter](#flutter)
         * [Courses](#flutter-courses)
+* [Agile](#agile)       
 * [Business development](#business-development)
     * [Inspirational books](#inspirational-books)
 
@@ -64,6 +65,9 @@ A list of code references.
 
 ## Flutter courses
 - [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+
+# Agile
+- [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
 # Business development
 
