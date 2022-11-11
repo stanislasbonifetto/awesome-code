@@ -1,10 +1,11 @@
-# Awesome code
+# Awesome code and Tech
 A list of code references.
 
 ---------
 
 ## Table of Contents
 
+* [Tech culture](#tech-culture)
 * [Languages](#languages)
     * [Haskell](#haskell) 
 * [Architecture](#architecture)
@@ -22,6 +23,10 @@ A list of code references.
 
 
 --------
+# Tech culture
+
+## Staff+ Eng
+- [Staff Eng blog](https://staffeng.com/)
 
 # Languages
 
