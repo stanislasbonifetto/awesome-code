@@ -5,7 +5,9 @@ A list of code references.
 
 ## Table of Contents
 
-* [Tech culture](#tech-culture)
+* [Software Engineering](#languages)
+    * [Tech culture](#tech-culture)
+* [Agile](#agile)       
 * [Languages](#languages)
     * [Haskell](#haskell) 
 * [Architecture](#architecture)
@@ -17,16 +19,20 @@ A list of code references.
 * [Apps](#apps)
     * [Flutter](#flutter)
         * [Courses](#flutter-courses)
-* [Agile](#agile)       
 * [Business development](#business-development)
     * [Inspirational books](#inspirational-books)
 
 
 --------
-# Tech culture
+# Software Engineering
 
-## Staff+ Eng
+## Tech culture
 - [Staff Eng blog](https://staffeng.com/)
+- [The principal engineers handbook](https://ilya.grigorik.com/the-principal-engineers-handbook/)
+
+# Agile
+- [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+- [LeSS - Agile at scale](https://less.works/)
 
 # Languages
 
@@ -39,6 +45,7 @@ A list of code references.
  - [Haskell Works Kafka Ecosystem](https://github.com/haskell-works/hw-kafka)
 
 # Architecture
+- [Uber microservice architecture](https://www.uber.com/en-RO/blog/microservice-architecture/)
 
 ## Books on Architecture
 
@@ -70,9 +77,6 @@ A list of code references.
 
 ## Flutter courses
 - [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
-
-# Agile
-- [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
 # Business development
 
